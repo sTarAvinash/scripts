@@ -1,5 +1,3 @@
-@setlocal DisableDelayedExpansion
-@echo off
 
 
 ::  For command line switches, check mass grave[.]dev/command_line_switches.html
