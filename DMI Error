@@ -43,3 +43,57 @@ C:\Program Files (x86)\HP\BIOS Configuration Utility>BiosConfigUtility64.exe/set
 </BIOSCONFIG>
 
 C:\Program Files (x86)\HP\BIOS Configuration Utility>
+
+
+
+C:\Program Files (x86)\HP\BIOS Configuration Utility>BiosConfigUtility64.exe/setconfig:bios.txt
+<BIOSCONFIG Version="" Computername="ASKRAN-C11" Date="2025/10/07" Time="16:19:23" UTC="6">
+        <SETTING changeStatus="fail" name="Set Time (hh:mm)" reason="Access denied" returnCode="6">
+                <OLDVALUE><![CDATA[15:14]]></OLDVALUE>
+                <NEWVALUE><![CDATA[11:22]]></NEWVALUE>
+        </SETTING>
+        <SETTING changeStatus="fail" name="Set Day (mm/dd/yyyy)" reason="Access denied" returnCode="6">
+                <OLDVALUE><![CDATA[10/07/2025]]></OLDVALUE>
+                <NEWVALUE><![CDATA[10/06/2025]]></NEWVALUE>
+        </SETTING>
+        <SETTING changeStatus="pass" name="UEFI Boot Order" reason="Success" returnCode="0">
+                <OLDVALUE><![CDATA[USB Flash Drive/USB Hard Disk,OS Boot Manager,Internal CD/DVD ROM Drive,USB CD/DVD ROM Drive,Network Adapter,,,,,, , , , , , , , , ,]]></OLDVALUE>
+                <NEWVALUE><![CDATA[OS Boot Manager,Internal CD/DVD ROM Drive,USB Flash Drive/USB Hard Disk,USB CD/DVD ROM Drive,Network Adapter]]></NEWVALUE>
+        </SETTING>
+        <SETTING changeStatus="fail" name="Product Name" reason="Access denied" returnCode="6">
+                <OLDVALUE><![CDATA[]]></OLDVALUE>
+                <NEWVALUE><![CDATA[HP Desktop Pro A G2 Microtower PC]]></NEWVALUE>
+        </SETTING>
+        <SETTING changeStatus="fail" name="Serial Number" reason="Access denied" returnCode="6">
+                <OLDVALUE><![CDATA[]]></OLDVALUE>
+                <NEWVALUE><![CDATA[INA934XG4Z]]></NEWVALUE>
+        </SETTING>
+        <SETTING changeStatus="fail" name="SKU Number" reason="Access denied" returnCode="6">
+                <OLDVALUE><![CDATA[]]></OLDVALUE>
+                <NEWVALUE><![CDATA[8NA20PA]]></NEWVALUE>
+        </SETTING>
+        <SETTING changeStatus="fail" name="System Family" reason="Access denied" returnCode="6">
+                <OLDVALUE><![CDATA[]]></OLDVALUE>
+                <NEWVALUE><![CDATA[HP]]></NEWVALUE>
+        </SETTING>
+        <SETTING changeStatus="fail" name="Asset Tag" reason="Access denied" returnCode="6">
+                <OLDVALUE><![CDATA[]]></OLDVALUE>
+                <NEWVALUE><![CDATA[INA934XG4Z]]></NEWVALUE>
+        </SETTING>
+        <SETTING changeStatus="fail" name="Feature Byte" reason="Access denied" returnCode="6">
+                <OLDVALUE><![CDATA[]]></OLDVALUE>
+                <NEWVALUE><![CDATA[2U3E3X476J6S6b6y7B7J7M7Q7T7W7maBapaqaubhdUdpdq.aA]]></NEWVALUE>
+        </SETTING>
+        <SETTING changeStatus="fail" name="Build ID" reason="Access denied" returnCode="6">
+                <OLDVALUE><![CDATA[]]></OLDVALUE>
+                <NEWVALUE><![CDATA[18WWVICT601#SACJ#DACJ]]></NEWVALUE>
+        </SETTING>
+        <SETTING changeStatus="fail" name="System Board CT Number" reason="Access denied" returnCode="6">
+                <OLDVALUE><![CDATA[]]></OLDVALUE>
+                <NEWVALUE><![CDATA[PHMMH0ACYBN0A2]]></NEWVALUE>
+        </SETTING>
+        <ERROR msg="An operation failed" />
+        <ERROR msg="BCU return value" real="13" translated="13" />
+</BIOSCONFIG>
+
+C:\Program Files (x86)\HP\BIOS Configuration Utility>
