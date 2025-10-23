@@ -1,0 +1,6 @@
+# Example: Set creation and modification date to 5th January 2023 at 10:30 AM
+$path = "E:\Documents\Report.pdf"
+$time = Get-Date "2023-01-05 10:30"
+(Get-Item $path).CreationTime = $time
+(Get-Item $path).LastWriteTime = $time
+(Get-Item $path).LastAccessTime = $time
