@@ -97,3 +97,31 @@ C:\Program Files (x86)\HP\BIOS Configuration Utility>BiosConfigUtility64.exe/set
 </BIOSCONFIG>
 
 C:\Program Files (x86)\HP\BIOS Configuration Utility>
+
+
+
+Microsoft Windows [Version 10.0.19045.6332]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\WINDOWS\system32>wmic csproduct get name
+Name
+
+
+
+C:\WINDOWS\system32>wmic baseboard get product
+Product
+8534
+
+
+C:\WINDOWS\system32>wmic bios get smbiosbiosversion, releasedate
+ReleaseDate                SMBIOSBIOSVersion
+20200806000000.000000+000  F.08
+
+
+C:\WINDOWS\system32>wmic csproduct get uuid
+UUID
+E9E2C381-E98B-6C96-9769-7352AA31A2AE
+
+
+C:\WINDOWS\system32>
+
