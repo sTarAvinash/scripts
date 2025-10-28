@@ -106,22 +106,138 @@ Microsoft Windows [Version 10.0.19045.6332]
 C:\WINDOWS\system32>wmic csproduct get name
 Name
 
-
-
 C:\WINDOWS\system32>wmic baseboard get product
 Product
 8534
-
 
 C:\WINDOWS\system32>wmic bios get smbiosbiosversion, releasedate
 ReleaseDate                SMBIOSBIOSVersion
 20200806000000.000000+000  F.08
 
-
 C:\WINDOWS\system32>wmic csproduct get uuid
 UUID
 E9E2C381-E98B-6C96-9769-7352AA31A2AE
 
+C:\WINDOWS\system32>systeminfo
+
+Host Name:                 ASKRAN-C11
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.19045 N/A Build 19045
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Member Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          11
+Registered Organization:   HP Inc.
+Product ID:                00330-52198-90736-AAOEM
+Original Install Date:     03-06-2021, 14:18:37
+System Boot Time:          28-10-2025, 11:01:26
+System Manufacturer:       HP
+System Model:
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: AMD64 Family 23 Model 17 Stepping 0 AuthenticAMD ~3500 Mhz
+BIOS Version:              AMI F.08, 06-08-2020
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              00004009
+Time Zone:                 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+Total Physical Memory:     5,563 MB
+Available Physical Memory: 1,588 MB
+Virtual Memory: Max Size:  9,147 MB
+Virtual Memory: Available: 4,092 MB
+Virtual Memory: In Use:    5,055 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    askdc.lan
+Logon Server:              \\ASK-DC-001
+Hotfix(s):                 34 Hotfix(s) Installed.
+                           [01]: KB5039893
+                           [02]: KB5028951
+                           [03]: KB4562830
+                           [04]: KB4580325
+                           [05]: KB5003791
+                           [06]: KB5011048
+                           [07]: KB5012170
+                           [08]: KB5015684
+                           [09]: KB5065429
+                           [10]: KB5006753
+                           [11]: KB5007273
+                           [12]: KB5011352
+                           [13]: KB5011651
+                           [14]: KB5014032
+                           [15]: KB5014035
+                           [16]: KB5014671
+                           [17]: KB5015895
+                           [18]: KB5016705
+                           [19]: KB5018506
+                           [20]: KB5020372
+                           [21]: KB5022924
+                           [22]: KB5023794
+                           [23]: KB5025315
+                           [24]: KB5026879
+                           [25]: KB5028318
+                           [26]: KB5028380
+                           [27]: KB5029709
+                           [28]: KB5032907
+                           [29]: KB5039336
+                           [30]: KB5046823
+                           [31]: KB5063261
+                           [32]: KB5063979
+                           [33]: KB5005699
+                           [34]: KB5048239
+Network Card(s):           1 NIC(s) Installed.
+                           [01]: Realtek PCIe GbE Family Controller
+                                 Connection Name: Ethernet
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 10.15.15.12
+                                 [02]: fe80::35f8:9258:3cd6:d851
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: No
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes
 
 C:\WINDOWS\system32>
 
+OS Name	Microsoft Windows 10 Pro
+Version	10.0.19045 Build 19045
+Other OS Description 	Not Available
+OS Manufacturer	Microsoft Corporation
+System Name	ASKRAN-C11
+System Manufacturer	HP
+System Model	
+System Type	x64-based PC
+System SKU	
+Processor	AMD Ryzen 3 PRO 2200G with Radeon Vega Graphics, 3500 Mhz, 4 Core(s), 4 Logical Processor(s)
+BIOS Version/Date	AMI F.08, 06-08-2020
+SMBIOS Version	3.1
+Embedded Controller Version	255.255
+BIOS Mode	UEFI
+BaseBoard Manufacturer	HP
+BaseBoard Product	8534
+BaseBoard Version	MVB
+Platform Role	Desktop
+Secure Boot State	Off
+PCR7 Configuration	Elevation Required to View
+Windows Directory	C:\WINDOWS
+System Directory	C:\WINDOWS\system32
+Boot Device	\Device\HarddiskVolume1
+Locale	United States
+Hardware Abstraction Layer	Version = "10.0.19041.5553"
+User Name	ASKDC\Avinash.Barnwal
+Time Zone	India Standard Time
+Installed Physical Memory (RAM)	8.00 GB
+Total Physical Memory	5.43 GB
+Available Physical Memory	1.53 GB
+Total Virtual Memory	8.93 GB
+Available Virtual Memory	3.97 GB
+Page File Space	3.50 GB
+Page File	C:\pagefile.sys
+Kernel DMA Protection	Off
+Virtualization-based security	Not enabled
+Device Encryption Support	Elevation Required to View
+Hyper-V - VM Monitor Mode Extensions	Yes
+Hyper-V - Second Level Address Translation Extensions	Yes
+Hyper-V - Virtualization Enabled in Firmware	No
+Hyper-V - Data Execution Protection	Yes
