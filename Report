@@ -1,136 +1,35 @@
-System 1
-{
-    "CSProduct": {
-        "IdentifyingNumber": "INA934XG6M",
-        "Name": "HP Desktop Pro A G2",
-        "UUID": "36E73C91-F5E0-F79F-A1EB-5B35E03DD945",
-        "Vendor": "HP",
-        "Version": ""
-    },
-    "BaseBoard": {
-        "Manufacturer": "HP",
-        "Product": "8534",
-        "SerialNumber": "PHMMH0ACYBO0NQ",
-        "Version": "MVB"
-    },
-    "BIOS": {
-        "Manufacturer": "AMI",
-        "ReleaseDate": "20190401000000.000000+000",
-        "SerialNumber": "INA934XG6M",
-        "SMBIOSBIOSVersion": "F.04",
-        "Version": "HPQOEM - 1072009"
-    },
-    "ComputerSystem": {
-        "Manufacturer": "HP",
-        "Model": "HP Desktop Pro A G2",
-        "Name": "ASKRAN-C15",
-        "SystemType": "x64-based PC",
-        "TotalPhysicalMemory": "7427186688"
-    },
-    "OS": {
-        "BuildNumber": "19045",
-        "Caption": "Microsoft Windows 10 Pro",
-        "InstallDate": "20210605160611.000000+330",
-        "SerialNumber": "00330-52198-88713-AAOEM",
-        "Version": "10.0.19045"
-    },
-    "Processor": {
-        "Manufacturer": "AuthenticAMD",
-        "MaxClockSpeed": "3500",
-        "Name": "AMD Ryzen 3 PRO 2200G with Radeon Vega Graphics",
-        "NumberOfCores": "4",
-        "NumberOfLogicalProcessors": "4"
-    },
-    "Network": [
-        {
-            "AdapterType": "Ethernet 802.3"
-        },
-        {
-            "MACAddress": "C8:D9:D2:02:1B:82"
-        },
-        {
-            "Name": "Realtek PCIe GbE Family Controller"
-        },
-        {
-            "NetConnectionID": "Ethernet"
-        }
-    ],
-    "_meta": {
-        "exported_by": "Sonu.Saw",
-        "exported_at": "2025-10-28T07:06:48.677769Z"
-    }
-}
+*ASK Ranchi (A) Report- 28-Oct-2025*
+Kit Working - *8/16*
+New - *18*
+Mandatory(0) - *16*
+Mandatory(100) - *15*
+Demo-Update - *19*
+Bio-Update - *60*
+Document Upload - *2*
+Total Token Served - *128*
+Total Token Issued - *128*
+Success rate : *100*
+Per Kit avg : *16*
+Print Aadhaar - *7*
+Online served - **
+Manual served - **
+Online Appointment - *0*
+Walk-In Appointment - *128*
+Operator Done 100+ : 
 
-System 2
-{
-    "CSProduct": {
-        "IdentifyingNumber": "",
-        "Name": "",
-        "UUID": "E9E2C381-E98B-6C96-9769-7352AA31A2AE",
-        "Vendor": "HP",
-        "Version": ""
-    },
-    "BaseBoard": {
-        "Manufacturer": "HP",
-        "Product": "8534",
-        "SerialNumber": "",
-        "Version": "MVB"
-    },
-    "BIOS": {
-        "Manufacturer": "AMI",
-        "ReleaseDate": "20200806000000.000000+000",
-        "SerialNumber": "",
-        "SMBIOSBIOSVersion": "F.08",
-        "Version": "HPQOEM - 1072009"
-    },
-    "ComputerSystem": {
-        "Manufacturer": "HP",
-        "Model": "",
-        "Name": "ASKRAN-C11",
-        "SystemType": "x64-based PC",
-        "TotalPhysicalMemory": "5833351168"
-    },
-    "OS": {
-        "BuildNumber": "19045",
-        "Caption": "Microsoft Windows 10 Pro",
-        "InstallDate": "20210603141837.000000+330",
-        "SerialNumber": "00330-52198-90736-AAOEM",
-        "Version": "10.0.19045"
-    },
-    "Processor": {
-        "Manufacturer": "AuthenticAMD",
-        "MaxClockSpeed": "3500",
-        "Name": "AMD Ryzen 3 PRO 2200G with Radeon Vega Graphics",
-        "NumberOfCores": "4",
-        "NumberOfLogicalProcessors": "4"
-    },
-    "Network": [
-        {
-            "AdapterType": "Ethernet 802.3"
-        },
-        {
-            "MACAddress": "C8:D9:D2:01:86:73"
-        },
-        {
-            "Name": "Realtek PCIe GbE Family Controller"
-        },
-        {
-            "NetConnectionID": "Ethernet"
-        }
-    ],
-    "_meta": {
-        "exported_by": "Avinash.Barnwal",
-        "exported_at": "2025-10-28T07:04:12.522137Z"
-    }
-}
+Document Upload - *2*
+POS Transaction Count - *0*
 
+*UC Enrolemnt:*
+Foreign Enrolment - *0*
+Indian Resident Enrolment - *14*
+MBU Free - *0*
+MBU Paid - *5*
+Bio-Update - *19*
+Demo Update - *6*
+Total - *44*
 
-Product Name = HP Desktop Pro A G2 Microtower PC
-Serial Number = INA934XG4Z
-SKU Number = 8NA20PA#ACJ
-System Family = HP Desktop Pro A G2
-Feature Byte = 2U3E3X476J6S6b6y7B7J7M7Q7T7W7maBapaqaubhdUdpdq.aA
-Build ID = 18WWVICT601#SACJ#DACJ
-System Board CT Number = PHMMH0ACYBN0A2
-Asset Tag = INA934XG4Z
+Total Enrollment 
+(ECMP + UC) = *128 + 44 = 172*
 
+*Today's Achievement - 20.2%*
